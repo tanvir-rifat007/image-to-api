@@ -1,6 +1,6 @@
 module github.com/tanvir-rifat007/image-to-api
 
-go 1.24.2
+go 1.24.0
 
 require (
 	github.com/chai2010/bpg v0.0.0-20200705094514-88774bd8ff0e // indirect
